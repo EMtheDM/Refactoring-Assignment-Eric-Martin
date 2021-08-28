@@ -13,7 +13,7 @@ Specific actions taken:
 - Made CSS more semantic.
 - Fixed broken links in nav element.
 
-![FullWebpage](Develop/assets/images/FullWebpage.png)
+![FullWebpage](images/FullWebpage.png)
 
 ## License
 MIT License
